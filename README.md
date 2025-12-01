@@ -22,7 +22,7 @@ It’s meant as a **teaching / starter example** for using Hugging Face chat mod
   - `temperature`
 
 ---
----
+
 
 ## Requirements
 
@@ -34,6 +34,9 @@ It’s meant as a **teaching / starter example** for using Hugging Face chat mod
   pip install requests
 
 <hr>
+
+---
+
 
 # Gemma 2B Chat – React Native Demo
 
