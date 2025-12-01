@@ -22,6 +22,7 @@ It’s meant as a **teaching / starter example** for using Hugging Face chat mod
   - `temperature`
 
 ---
+---
 
 ## Requirements
 
